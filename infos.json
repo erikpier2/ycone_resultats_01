@@ -1,0 +1,172 @@
+{
+  "groupe1": {
+    "titre": "'l'Avallon Trail' – 3 janvier 2026",
+    "textes": [
+    "Trail organisé par nos amis d'Avallon 'CARTO'"      
+    ],
+    "liens": [
+      {
+        "texte": "Classement général 10 km",
+        "url": "https://drive.google.com/file/d/1_2l22CA4kJcRGj07lEsj62CJtsyjyR1a/view?usp=sharing"
+      },
+      {
+        "texte": "Classement général 19 km",
+        "url": "https://drive.google.com/file/d/1_T4Gsjbbk6AjShAP7yEBj9uLrGL4lmdd/view?usp=sharing"
+      },
+      {
+        "texte": "Classement catégories 10 km",
+        "url": "https://drive.google.com/file/d/1H2N4PCy2l9CUWZRqBSTPDDiF2Z5ongCC/view?usp=sharing"
+      },      
+      {
+        "texte": "Classement catégories 19 km",
+        "url": "https://drive.google.com/file/d/1gXph6xtlQuj8iBSeDqckYyPmxU2RumhZ/view?usp=sharing"
+      }
+    ],
+    "maj": "18/10/2026 16:37"
+  },
+
+  "groupe2": {
+    "titre": "la SAEPDOF Fontainebleau(77) 18/01",
+    "textes": [
+      "Départementale LD"
+    ],
+    "liens": [
+      {
+        "texte": "Résultats circuits",
+        "url": "https://scapanancyorientation.fr/wp-content/uploads/2026/01/20260125_resultats_LD_cat.html"
+      },
+      {
+        "texte": "Résultats temps intermédiaires",
+        "url": "http://www.samois.coursedorientation.fr/temps_si_regionale_saepdof26.html"
+      }
+    ],
+    "maj": "18/10/2026 17:28"
+  },
+
+  "groupe3": {
+    "titre": "LD Malzéville (54) 24/01",
+    "textes": [
+      "Longue distance départementale"
+    ],
+    "liens": [
+      {
+        "texte": "Résultats circuits",
+        "url": "https://scapanancyorientation.fr/wp-content/uploads/2026/01/20260125_resultats_LD_cat.html"
+      },
+      {
+        "texte": "Résultats temps intermédiaires",
+        "url": "https://scapanancyorientation.fr/wp-content/uploads/2026/01/20260125_resultats_LD_SI.html"
+      }
+    ],
+    "maj": "18/10/2026 17:36"
+  },
+
+    "groupe4": {
+    "titre": "CO-VTT LD Fontainebleau(77) 31/01",
+    "textes": [
+      "Course d’orientation à VTT longue distance (départementale)",
+      ""
+    ],
+    "liens": [
+      {
+        "texte": "Liveresultats",
+        "url": "https://liveresultat.orientering.se/followfull.php?comp=35660&lang=sv"
+      },
+      {
+        "texte": "Résultats temps intermédiaires",        
+        "url": "https://balise77.com/site/wp-content/uploads/2026/02/resultat_VTT_Samedi_weekendblo.html"
+      },
+      {
+        "texte": "",
+        "url": ""
+      },
+      {
+        "texte": "Annonce",
+        "url": "https://balise77.com/site/wp-content/uploads/2026/01/v4_VTT_samedi.pdf"
+      }
+    ],
+    "maj": "18/10/2026 17:51"
+  },
+
+  "groupe5": {
+    "titre": "",
+    "textes": [
+      "" 
+    ],
+    "liens": [
+      {        "texte": "",        
+        "url": ""
+      },
+      {         "texte":"",
+        "url":""
+      },      
+      {
+        "texte": "",        
+        "url": ""
+      },
+      {
+        "texte": "",
+        "url": ""
+      }
+    ],
+    "maj": "12/10/2026 08:11"
+  },
+  "groupe6": {
+    "titre": "",
+    "textes": [
+      "",
+      "",
+      ""     
+        ],
+    "liens": [
+      {
+        "texte": "",
+        "url": ""
+      },
+      {
+        "texte": "",
+        "url": ""
+      },      
+      {
+        "texte":"",
+        "url":""
+      },
+      {
+        "texte": "",        
+        "url": ""
+      }
+    ],
+    "maj": "18/10/2026 09:30"
+  },
+  "groupe7": {
+    "titre": "",
+    "textes": [
+      "",
+      "",
+      ""  
+    ],
+    "liens": [
+      {
+        "texte": "",
+        "url": ""
+      },
+      {
+        "texte":"",
+        "url":""
+      },
+      {
+        "texte": "",
+        "url": ""
+      },
+      {
+        "texte":"",
+        "url":""
+      },
+      {
+        "texte": "",        
+        "url": ""
+      }
+    ],
+    "maj": "18/10/2026 15:36"
+  }  
+}
